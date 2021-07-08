@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarunjain131" alt="tarunjain131" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/tarunjaun777" target="blank"><img src="https://img.shields.io/twitter/follow/tarunjaun777?logo=twitter&style=for-the-badge" alt="tarunjaun777" /></a> </p>
+<p align="left"> <a href="https://twitter.com/tarunjaun131" target="blank"><img src="https://img.shields.io/twitter/follow/tarunjaun777?logo=twitter&style=for-the-badge" alt="tarunjaun777" /></a> </p>
 
 - 📫 How to reach me **tarunjainckb777@gmail.com**
 
